@@ -1,0 +1,6 @@
+filepath	method	gene_col	p_col	tissue	target	data_type
+/data/scratch/DGE/DUDGE/MOPOPGEN/plaw/perturbSeq/CRC_noncoding_for_James/CRCpeterbseq/activedriver.tsv	activedriver	id	pp_element	CRC	enhancer	observed
+/data/scratch/DGE/DUDGE/MOPOPGEN/plaw/perturbSeq/CRC_noncoding_for_James/CRCpeterbseq/mutspot_indel_enh.tsv	mutspot_indel	enhancer	pval	CRC	enhancer	observed
+/data/scratch/DGE/DUDGE/MOPOPGEN/plaw/perturbSeq/CRC_noncoding_for_James/CRCpeterbseq/mutspot_snv_enh.tsv	mutspot_snv	enhancer	pval	CRC	enhancer	observed
+/data/scratch/DGE/DUDGE/MOPOPGEN/plaw/perturbSeq/CRC_noncoding_for_James/CRCpeterbseq/oncodriveClustl.tsv	oncodriveClustl	SYMBOL	P_TOPCLUSTER	CRC	enhancer	observed
+/data/scratch/DGE/DUDGE/MOPOPGEN/plaw/perturbSeq/CRC_noncoding_for_James/CRCpeterbseq/oncodriveFML.tsv	oncodriveFML	GENE_ID	P_VALUE	CRC	enhancer	observed
